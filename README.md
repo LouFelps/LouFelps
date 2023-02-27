@@ -21,7 +21,7 @@ I am Luis!
 - 🤝 I’m looking to collaborate on data science and deep learning projects. 
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0uFelps&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouFelps&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
   <div style="display: inline_block"><br>
