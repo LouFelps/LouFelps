@@ -13,20 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi 👋 
-### I am Luis! Welcome to my GitHub.
+# 👋 Olá! Sou Luis, um Desenvolvedor Backend 🚀
 
-  
-<div style="display: inline_block"><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" heigth="30" width="30" /> - 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" heigth="30" width="30" /> - 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" heigth="30" width="30" /> - 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" heigth="30" width="30" /> - 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" heigth="30" width="30" /> - 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" heigth="30" width="30" /> - 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" heigth="30" width="30" /> -
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" heigth="30" width="30"/>
-</div>
+💻 Atualmente, atuo no **Instituto do Coração (InCor)**, desenvolvendo e mantendo sistemas, focando em soluções backend.
+
+## 💡 Sobre Mim
+- **Linguagens Principais:** Python & TypeScript
+- **Frameworks & Ferramentas:**
+  - **FastAPI**: Desenvolvimento de APIs
+  - **MongoDB**: Bancos de dados NoSQL
+  - **React**: Experiência adicional no frontend
+- **Experiência Anterior:** Monitor de banco de dados SQL na faculdade
+- **Outras Tecnologias:** Utilização de bibliotecas como Axios
+
+🌟 Sempre buscando aprender e contribuir para projetos que fazem a diferença!
+
 
 ##
 
