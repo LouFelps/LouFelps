@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Olá! Meu nome é Luis, e sou Desenvolvedor Backend 🚀
+# 👋 Olá! Meu nome é Luis, e sou Desenvolvedor 🚀
 
 💻 Atualmente, atuo no **Instituto do Coração (InCor)**, desenvolvendo e mantendo sistemas, focando em soluções backend.
 
