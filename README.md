@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 👋 Olá! Meu nome é Luis, e sou Desenvolvedor 🚀
 
-💻 Atualmente, atuo no **Instituto do Coração (InCor)**, desenvolvendo e mantendo sistemas, focando em soluções backend.
+💻 Atualmente, atuo como desenvolvedor mantendo sistemas, focando em soluções backend e frontend.
 
 ## 💡 Sobre Mim
 - **Linguagens Principais:** Python & TypeScript
