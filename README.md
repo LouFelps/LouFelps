@@ -1,37 +1,45 @@
-<!--
-**L0uFelps/L0uFelps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey 👋What's Up? My name is Luis 🤓</h1>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="60" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="60" alt="eslint logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="60" alt="insomnia logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="60" alt="ubuntu logo"  />
+</div>
 
-# 👋 Olá! Meu nome é Luis, e sou Desenvolvedor 🚀
+###
 
-💻 Atualmente, atuo como desenvolvedor mantendo sistemas, focando em soluções backend e frontend.
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</div>
 
-## 💡 Sobre Mim
-- **Linguagens Principais:** Python & TypeScript
-- **Frameworks & Ferramentas:**
-  - **FastAPI**: Desenvolvimento de APIs
-  - **MongoDB**: Bancos de dados NoSQL
-  - **React**: Experiência adicional no frontend
-- **Formação Acadêmica:**
-  - Pós-graduando em **Engenharia de Software**
-  - Experiência como monitor de banco de dados SQL
-- **Outras Tecnologias:** Utilização de bibliotecas como Axios
+###
 
-🌟 Sempre buscando aprender e contribuir para projetos que fazem a diferença!
+<p align="left">Profissional de TI com formação em Análise e Desenvolvimento de Sistemas pela FATEC<br><br>Desenvolvedor Back-end, com foco em Python, JavaScript, Typescript. Também possui experiência com Frameworks como FastAPI e React.Js, além de SGDBs como MySql e MongoDB. <br><br>Suporte Técnico focado em hardware de computadores e sistemas operacionais Windows, Linux e MacOS.<br><br>Atualmente desenvolve sistemas para pesquisas de análise biológica no inCor.</p>
 
-##
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luis-felipe-f-silva/) 
-
- 
+###
