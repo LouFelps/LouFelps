@@ -43,3 +43,15 @@
 <p align="left">Profissional de TI com formação em Análise e Desenvolvimento de Sistemas pela FATEC<br><br>Desenvolvedor Back-end, com foco em Python, JavaScript, Typescript. Também possui experiência com Frameworks como FastAPI e React.Js, além de SGDBs como MySql e MongoDB. <br><br>Suporte Técnico focado em hardware de computadores e sistemas operacionais Windows, Linux e MacOS.<br><br>Atualmente desenvolve sistemas para pesquisas de análise biológica no inCor.</p>
 
 ###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LouFelps/LouFelps/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LouFelps/LouFelps/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LouFelps/LouFelps/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/LouFelps/LouFelps/output/snake.svg" alt="Snake animation" />
+
+###
